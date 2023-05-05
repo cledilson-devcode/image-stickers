@@ -4,4 +4,4 @@ Projeto para consumo de API com a intuito de utilizar imagens com seus respectiv
 
 No momento o projeto está ajustado para consumir as API´s da NASA e IMDB como demonstado na classe App.
 
-O projeto está em desenvolvimento.
+O projeto está em desenvolvimento com o intuito de aprendizado.
